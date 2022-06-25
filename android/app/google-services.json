@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "911727880792",
+    "project_id": "sirochats",
+    "storage_bucket": "sirochats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911727880792:android:4828f043744b27977af82d",
+        "android_client_info": {
+          "package_name": "com.sirochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911727880792-gs0ebi16s9r5h0207lcvijj3hnidkhtr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sirochat",
+            "certificate_hash": "d712e92703a9e27254f378f31e4f22013c8b3432"
+          }
+        },
+        {
+          "client_id": "911727880792-r2t52fagrhjn57o45i24e1cvego2qdfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqdPOVc6r0dRJw21XUAQDzP7ejRERKcAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911727880792-r2t52fagrhjn57o45i24e1cvego2qdfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
